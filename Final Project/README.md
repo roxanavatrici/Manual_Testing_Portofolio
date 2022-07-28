@@ -7,7 +7,7 @@ Application under test: <a href="https://opensource-demo.orangehrmlive.com/" tar
 
 API Documentation: [OrangeHRM API](https://orangehrm.github.io/orangehrm-api-doc/)
 
-**The final project will be split into 2 sections:** Testing section and SQL section.
+The final project will be split into 2 sections: **Testing section and SQL section.**
 
 Tools used:
 

@@ -24,22 +24,41 @@ The specification would be created ASAP in order to accomplish entry criteria in
 
 ### 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application.
+The Test Plan is designed to describe all details of testing for the Recruitment module from the OrangeHRM application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the team responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
 #### 1.1.1 Roles assigned to the project and persons allocated
+
+- Project manager - Dumitru Berteanu
+- Product owner - Mihai Sandu
+- Software developer - Mihaela Dumitrescu
+- QA Engineer - Roxana Vatrici
+
 #### 1.1.2 Entry criteria defined
+
+- Functional specifications are defined (based on issue https://roxanavatrici.atlassian.net/browse/MET-3)
+- Roles needed for the project are allocated
+- Initial project risks were detected and mitigated
+
 #### 1.1.3 Exit criteria defined
+
+- Number of unresolved bugs is insignificant or they have low priority
+- All tests have been executed
+- All resolved bugs have been re-tested and approved by the QA team
+- Deadline was reached
+- No detected major risk remained un-mitigated
+- Exploratory regression testing must be performed on the Recruitment module.
+
 #### 1.1.4 Test scope
 
-- Tests in scope:
-- Tests not in scope:
+- **Tests in scope:** All the feature of Recruitment module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing. Also, compatibility testing with multiple browsers.
+- **Tests not in scope:** Performance testing, integrations of the dependents module with other modules.
 
 #### 1.1.5 Risks detected
 
-- Project risks:
-- Product risks:
+- **Project risks:** Lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment.
+- **Product risks:** validation constraints on the fields might be too restrictive to the end-user.
 
 #### 1.1.6 Evaluating entry criteria
 

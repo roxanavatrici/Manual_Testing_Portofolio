@@ -14,7 +14,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 # Functional specifications
 
 The Story below was created in Jira to describe functional specification.
-Due to the fact that the Recruitment module did not have a specification, the Team created an Jira Static Analysis issue.
+Due to the fact that [OrangeHRM Specification](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf) does not include the Recruitment module, the Team created an Jira Static Analysis issue.
 The specification would be created ASAP in order to accomplish entry criteria in Test Planning.
 
 ## 1 Testing section

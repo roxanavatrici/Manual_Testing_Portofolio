@@ -28,13 +28,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 1.1.3 Exit criteria defined
 #### 1.1.4 Test scope
 
-    - Tests in scope:
-    - Tests not in scope:
+- Tests in scope:
+- Tests not in scope:
 
 #### 1.1.5 Risks detected
 
-    - Project risks:
-    - Product risks:
+- Project risks:
+- Product risks:
 
 #### 1.1.6 Evaluating entry criteria
 
@@ -66,8 +66,8 @@ The following elements are needed to be ready before the test execution phase be
 
 ### 1.6 Test Execution
 
-    - Test cases are executed on the created test Cycle summary: cycle_summary_execution.pdf
-    - Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
+- Test cases are executed on the created test Cycle summary: cycle_summary_execution.pdf
+- Bugs have been created based on the failed tests. The complete bug reports can be found here: created_bugs.pdf
         enter here bug titles
 
 ### 1.7 Test Completion

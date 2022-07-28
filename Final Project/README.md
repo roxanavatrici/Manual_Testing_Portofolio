@@ -9,11 +9,13 @@ API Documentation: [OrangeHRM API](https://orangehrm.github.io/orangehrm-api-doc
 
 The final project will be split into 2 sections: **Testing section and SQL section.**
 
-Tools used:
+Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+The Story below was created in Jira to describe functional specification.
+Due to the fact that the Recruitment module did not have a specification, the Team created an Jira Static Analysis issue.
+The specification would be created ASAP in order to accomplish entry criteria in Test Planning.
 
 ## 1 Testing section
 

@@ -17,7 +17,7 @@ The Story below was created in Jira to describe functional specification.
 Due to the fact that [OrangeHRM Specification](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf) does not include the Recruitment module, the Team created an Jira Static Analysis issue.
 The specification would be created ASAP in order to accomplish entry criteria in Test Planning.
 
-<img src="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/704346211fc25cdaa2a04f3156e7177bf08bc023/Functional%20Specification.png" width="600" height="1000">
+<img src="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/704346211fc25cdaa2a04f3156e7177bf08bc023/Functional%20Specification.png" width="660" height="1000">
 
 
 ## 1 Testing section

@@ -69,7 +69,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 ### 1.2 Test Monitoring and Control
 
 - The report was generated to reflect the current status of the testing process. 
-- There were implemented and executed 50% of the test cases, on 31th of July 2022.
+- There were implemented and executed 7 test cases from 20 test cases planned, on 31th of July 2022.
 - During Execution, one bug was found, which is Low Priority, and it is in Progress on Development side.
 
 <img src="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/62c96d3681c801ed81ab8b7424b0869a33ea9c9e/MonitoringControl.png" width="1500" height="400">

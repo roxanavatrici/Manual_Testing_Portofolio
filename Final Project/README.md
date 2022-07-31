@@ -70,15 +70,19 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 - The report was generated to reflect the current status of the testing process. 
 - There were implemented and executed 50% of the test cases, on 31th of July 2022.
-- During Execution, one bug was found, which is Low Priority, and is in Progress on Development side.
+- During Execution, one bug was found, which is Low Priority, and it is in Progress on Development side.
 
 <img src="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/62c96d3681c801ed81ab8b7424b0869a33ea9c9e/MonitoringControl.png" width="1500" height="400">
 
 ### 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
-
-    Enter test conditions here
+The testing process will be executed based on the requirements for the Recruitment module. 
+The following test conditions were found:
+- Enter data only for mandatory fields and check that the dependant is created/updated
+- Enter data for all available fields and check that the dependant is created/updated
+- Leave mandatory fields empty and check that the dependant cannot be created/updated
+- Check if all the Candidates were added correctly in the list
+- Check all validation constraints for the fields
 
 ### 1.4 Test Design
 

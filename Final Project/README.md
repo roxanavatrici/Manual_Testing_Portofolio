@@ -93,7 +93,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
  
   **List of Test Cases**
 
-<img src="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/df1bd96281c4d3fa3c238126bf38e5b4fad043da/TestCases.png" width="660" height="900">
+<img src="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/df1bd96281c4d3fa3c238126bf38e5b4fad043da/TestCases.png" width="660" height="700">
 
 The test cases with steps can be viewed here: test_cases.pdf
 

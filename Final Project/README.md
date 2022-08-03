@@ -95,7 +95,8 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 <img src="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/df1bd96281c4d3fa3c238126bf38e5b4fad043da/TestCases.png" width="660" height="700">
 
-The test cases with steps can be viewed here: test_cases.pdf
+The test cases with steps can be viewed here: 
+<a href="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/2f589978b77e009afad271e87b15a84d9c6f0b06/CandidateTestCases.pdf" target="_blank">CandidateTestCases.pdf</a>
 
 ### 1.5 Test Implementation
 

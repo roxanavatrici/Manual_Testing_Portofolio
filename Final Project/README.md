@@ -110,11 +110,13 @@ The following elements are needed to be ready before the test execution phase be
 
 ### 1.6 Test Execution
 
-- Test cases are executed on the created test Cycle summary: Dependents_cycle_summary_execution.pdf
-- Bugs have been created based on the failed tests. The complete bug reports can be found here: Dependents_created_bugs.pdf
-> The most important issue was regarding Static Analysis specification request
+- Test cases are executed on the created test Cycle summary: CandidatesCycleSummary.pdf
+- Bugs have been created based on the failed tests. The complete bug reports can be found here: BUGS.pdf
+
 > Nothing happens when click ENTER while being within the input fields
+
 > The message "Should be less than 250 characters" overlaps the Comment text
+
 - OUauth JSON file
 - Full regression testing is needed after the bugs are fixed
 

@@ -1,0 +1,105 @@
+{
+	"info": {
+		"_postman_id": "5509955d-1f57-45d8-8d23-ccfd999ffc68",
+		"name": "OangeHRM_Recruitment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21351607"
+	},
+	"item": [
+		{
+			"name": "token",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "206c8a955c4b42ef5803a0d828cacba6717e9b08",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"client_id\": \"roxana\",\r\n    \"client_secret\": \"2009\",\r\n    \"grant_type\": \"client_credentials\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL}}/index.php/oauth/issueToken",
+					"host": [
+						"{{URL}}"
+					],
+					"path": [
+						"index.php",
+						"oauth",
+						"issueToken"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List of Candidates",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "RandomCandidate",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "206c8a955c4b42ef5803a0d828cacba6717e9b08",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "URL",
+			"value": "https://opensource-demo.orangehrmlive.com"
+		},
+		{
+			"key": "OAuth",
+			"value": "",
+			"type": "string"
+		}
+	]
+}

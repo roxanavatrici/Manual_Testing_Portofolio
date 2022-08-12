@@ -111,7 +111,7 @@ The following elements are needed to be ready before the test execution phase be
 ### 1.6 Test Execution
 
 - Test cases are executed on the created test Cycle summary: <a href="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/25bba452baad27619466b54f4501b1997ae283fd/CandidatesCycleSummary.pdf" target="_blank">CandidatesCycleSummary.pdf</a> 
-- Bugs have been created based on the failed tests. The complete bug reports can be found here: 
+- Bugs have been created based on the failed tests. The complete bug reports can be found here: <a href="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/8a1724e5af5387d93863ffa4334e72f34875012c/BUGS.pdf" target="_blank">BUGS.pdf</a> 
 
 > Nothing happens when click ENTER while being within the input fields
 

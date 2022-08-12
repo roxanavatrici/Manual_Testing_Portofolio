@@ -117,7 +117,7 @@ The following elements are needed to be ready before the test execution phase be
 
 > The message "Should be less than 250 characters" overlaps the Comment text
 
-- OUauth JSON file
+- [OUauth JSON file](https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/bcbc6e6d049a798a90cf9635022211a193dd0450/OangeHRM_Recruitment.postman_collection.json)
 - Full regression testing is needed after the bugs are fixed
 
 ### 1.7 Test Completion

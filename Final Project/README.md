@@ -134,3 +134,4 @@ The following elements are needed to be ready before the test execution phase be
 <img src="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/28d588ccd2ebcd1931f82732547f18357d33e9ef/TestExecutionReport.png" width="600" height="600">
 
 ## 2 SQL section
+A database for recruitment was created with a table for candidates and different queries inside Candidates.sql were performed.

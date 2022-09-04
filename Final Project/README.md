@@ -9,7 +9,7 @@ API Documentation: [OrangeHRM API](https://orangehrm.github.io/orangehrm-api-doc
 
 The final project will be split into 2 sections: **Testing section and SQL section.**
 
-Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
+Tools used: JIRA, Zephyr Squad, MySQL Workbench.
 
 # Functional specifications
 

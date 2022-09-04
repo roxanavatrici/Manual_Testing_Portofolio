@@ -5,7 +5,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test: <a href="https://opensource-demo.orangehrmlive.com/" target="_blank">OrangeHRM</a>
 
-API Documentation: [OrangeHRM API](https://orangehrm.github.io/orangehrm-api-doc/)
+API Documentation: [OrangeHRM API](https://orangehrm.github.io/orangehrm-api-doc/) --> Recruitment module does not have included API documentation.
 
 The final project will be split into 2 sections: **Testing section and SQL section.**
 
@@ -13,9 +13,8 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 
-The Story below was created in Jira to describe functional specification.
-Due to the fact that [OrangeHRM Specification](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf) does not include the Recruitment module, the Team created an Jira Static Analysis issue.
-The specification would be created ASAP in order to accomplish entry criteria in Test Planning.
+The Story below was created in Jira to describe a functional specification.
+Due to the fact that [OrangeHRM Specification](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf) does not include the Recruitment module, the Team created a Jira Static Analysis issue in order to accomplish entry criteria in Test Planning.
 
 <img src="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/2695545081a617b1405e6b8e13962374f2ed1d47/Functional%20Specification.png" width="660" height="1000">
 
@@ -37,7 +36,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.2 Entry criteria defined
 
-- Functional specifications are defined (based on issue https://roxanavatrici.atlassian.net/browse/MET-3)
+- Functional specifications are defined (based on Jira Static Analysis issue, MET-3)
 - Roles needed for the project are allocated
 - Initial project risks were detected and mitigated
 
@@ -48,11 +47,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 - All resolved bugs have been re-tested and approved by the QA team
 - Deadline was reached
 - No detected major risk remained un-mitigated
-- Exploratory regression testing must be performed on the Recruitment module.
 
 #### 1.1.4 Test scope
 
-- **Tests in scope:** All the feature of Recruitment module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing. Also, compatibility testing with multiple browsers.
+- **Tests in scope:** All the feature of Recruitment module which were defined in the software requirement specs need to be tested: functional testing, GUI testing. Also, compatibility testing with multiple browsers.
 - **Tests not in scope:** Performance testing, integrations of the dependents module with other modules.
 
 #### 1.1.5 Risks detected
@@ -62,7 +60,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.6 Evaluating entry criteria
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue, due to MET-3 issue --> SOLVED!
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue, due to MET-3 issue --> SOLVED!
 
 <img src="https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/2870098fd29e81df078aa3403271a0303841dc9f/StaticAnalysysIssue.png" width="660" height="900">
 
@@ -106,7 +104,6 @@ The following elements are needed to be ready before the test execution phase be
 - Access to the testing environment is given: Username : Admin | Password : admin123
 - Cycle summary was created
 - Test cases were added to the cycle summary
-- Only authorization token was created for accessing the API, due to lack of API documentation for Recruitment module.
 
 ### 1.6 Test Execution
 
@@ -117,7 +114,6 @@ The following elements are needed to be ready before the test execution phase be
 
 > The message "Should be less than 250 characters" overlaps the Comment text
 
-- [OUauth JSON file](https://github.com/roxanavatrici/Manual_Testing_Portofolio/blob/bcbc6e6d049a798a90cf9635022211a193dd0450/OangeHRM_Recruitment.postman_collection.json)
 - Full regression testing is needed after the bugs are fixed
 
 ### 1.7 Test Completion
